@@ -5,3 +5,8 @@ spring:
     user:
       name: pankaj
       password: password
+  datasource:
+    url: jdbc:postgresql://localhost:5433/security-app
+    username: pankaj
+    password:
+
